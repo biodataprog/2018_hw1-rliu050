@@ -28,3 +28,5 @@ head -n 10 Nc20H.expr.sorted.tab
 
 grep -n "  CDS  " D_mel.63B12.gbk
 grep -c "  CDS  " D_mel.63B12.gbk
+
+to be continued
